@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **mudapakajaswanth888@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ccozcMq5ZwKXDHn3pztUfvDtBCAB6XsQ/view](https://drive.google.com/file/d/1ccozcMq5ZwKXDHn3pztUfvDtBCAB6XsQ/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jvSwquSNUXmgcwkoehXcy4YxnJwI2p3w/view?usp=drive_link](https://drive.google.com/file/d/1jvSwquSNUXmgcwkoehXcy4YxnJwI2p3w/view?usp=drive_link)
 
 - ⚡ Fun fact **I can debug faster when I’m listening to lo-fi beats 🎧**
 
@@ -32,10 +32,8 @@
   <a href="https://linkedin.com/in/jaswanth-mudapaka" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaswanth-mudapaka" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/profile/217y1a66831" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="217y1a66831" height="30" width="40" />
-  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- (keep your long icons section as it is — unchanged for brevity) -->
